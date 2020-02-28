@@ -4,7 +4,11 @@ import java.awt.BorderLayout;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
-
+/**
+ * Java第三个GUI程序
+ * @author lzq
+ *
+ */
 public class BorderLayoutDemo {
 
 	public static void main(String[] args) {
