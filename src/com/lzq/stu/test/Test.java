@@ -19,7 +19,7 @@ public class Test {
 
 	}
 	//方法int maxnumDigit(int n)的功能是求出十进制整数n各位的最大值。例如，n=12340，该方法的返回值是4
-	static int maxnumDigit(int n) {
+	static int maxnumDigit(int n){
 		int max = 0, d;
 		while (n > 0) {
 			d = n % 10;
